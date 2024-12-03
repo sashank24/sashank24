@@ -1,50 +1,48 @@
-# 👋 Hi, I'm Sashank G. Subramaniam!  
+# I'm Sashank G. Subramaniam
 
-![Header Image](https://via.placeholder.com/800x200.png?text=Sashank+G.+Subramaniam)
+
+## 💼 **About Me**
+
+I am an AI researcher and developer with expertise in various technologies and frameworks. A proud jack of all trades and a trying to master all of the trades lol even if it takes time. I firmly **Trust the Process** (not an embiid or 76ers fan) embracing every step of the journey because, let’s face it, the learning curve never truly ends.
 
 🎓 **Graduate Student in Artificial Intelligence**  
-📍 Atlanta, GA | 🌐 [LinkedIn](https://www.linkedin.com/in/sashank-gs-97b1b91a4/) | [GitHub](https://github.com/sashank24)  
+📍 Atlanta, GA | 🌐 [LinkedIn](https://www.linkedin.com/in/sashank-gs-97b1b91a4/)
 
 ---
 
 ## 🛠 **Technologies & Skills**
 
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-orange?logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Spark](https://img.shields.io/badge/-Apache%20Spark-black?logo=apache-spark&logoColor=white)
-![ROS](https://img.shields.io/badge/-ROS-blue?logo=ros&logoColor=white)
-
----
-
-## 💼 **About Me**
-
-I am a passionate AI researcher and developer with expertise in:  
-- 🔧 Predictive Maintenance using deep learning  
-- 🛠 Deploying LLMs on edge devices with RAG and Knowledge Graphs  
-- 🤖 Robotics and Human-Robot Interaction  
-
----
-
-## 🚀 **Notable Projects**
-
-- **Gesture-Controlled Telepresence Robot**  
-  Developed a telepresence robot enabling remote interaction using hand-tracking with computer vision and Raspberry Pi.
-
-- **Forest Fire Prediction with UAVs**  
-  Designed an algorithm for real-time forest fire prediction, showcased at the OpenPower Global Summit 2021.
-
-- **Local Lawyer Q&A LLM**  
-  Built a fully local Q&A chatbot for legal case queries with a custom RAG pipeline and achieved 73% accuracy.
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-orange?logo=postgresql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![Spark](https://img.shields.io/badge/-Apache%20Spark-black?logo=apache-spark&logoColor=white)  
+![ROS](https://img.shields.io/badge/-ROS-blue?logo=ros&logoColor=white)  
+![CUDA](https://img.shields.io/badge/-CUDA-green?logo=nvidia&logoColor=white)  
+![JAX](https://img.shields.io/badge/-JAX-3776AB?logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Supabase](https://img.shields.io/badge/-Supabase-black?logo=supabase&logoColor=white)  
+![Postgres](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white)  
+![Azure Synapse](https://img.shields.io/badge/-Azure%20Synapse-0078D4?logo=microsoft-azure&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)  
+![Neo4j](https://img.shields.io/badge/-Neo4j-blue?logo=neo4j&logoColor=white)  
+![RVIZ](https://img.shields.io/badge/-RVIZ-brightgreen?logo=ros&logoColor=white)  
+![SLAM](https://img.shields.io/badge/-SLAM-blue?logo=robotframework&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-blue?logo=opencv&logoColor=white)  
+![LangChain](https://img.shields.io/badge/-LangChain-yellow?logo=langchain&logoColor=black)  
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks&logoColor=white)  
+![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)  
+![Databricks](https://img.shields.io/badge/-Databricks-red?logo=databricks&logoColor=white)
 
 ---
 
 ## 🏆 **Achievements**
 
-- 📄 Published research in IEEE and ACM journals (in progress).  
+- 📄 Research in IEEE and ACM journals (in progress).  
 - 🌍 Presented innovative AI projects at global conferences.  
 - 🎓 Completed certifications from IBM, Google, and Deeplearning.ai.
 
@@ -52,7 +50,6 @@ I am a passionate AI researcher and developer with expertise in:
 
 ## 🌐 **Find Me Online**
 
-- **GitHub**: [sashank24](https://github.com/sashank24)  
 - **LinkedIn**: [Sashank G. Subramaniam](https://www.linkedin.com/in/sashank-gs-97b1b91a4/)  
 - **Email**: [sashank2408@gmail.com](mailto:sashank2408@gmail.com)
 
