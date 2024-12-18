@@ -74,7 +74,6 @@ I am an AI researcher and developer with expertise in various technologies and f
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sashank24&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sashank24&layout=compact&theme=radical)
 
 ---
