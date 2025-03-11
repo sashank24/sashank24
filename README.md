@@ -6,7 +6,7 @@
 I am an AI researcher and developer with expertise in various technologies and frameworks. A proud jack of all trades and a trying to master all of the trades lol even if it takes time. I firmly **Trust the Process** (not an embiid or 76ers fan) embracing every step of the journey because, let’s face it, the learning curve never truly ends.
 
 🎓 **Graduate Student in Artificial Intelligence**  
-📍 Atlanta, GA | 🌐 [LinkedIn](https://www.linkedin.com/in/sashank-gs-97b1b91a4/)
+📍 Dallas, TX | 🌐 [LinkedIn](https://www.linkedin.com/in/sashank-gs-97b1b91a4/)
 
 ---
 
